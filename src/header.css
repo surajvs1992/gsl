@@ -1,0 +1,46 @@
+
+
+
+/*--- header-secction ------*/
+
+
+
+.header-top {
+    padding-top: 21px;
+    background: #fff;
+}
+
+.mail-section li a {
+    float: left;
+    color: #311D40;
+    margin-right: 45px;
+    font-size: 15px;
+}
+
+.social-media ul li {
+    float: left;
+    margin-right: 15px;
+    font-size: 15px;
+}
+
+.social-media ul {
+    float: right;
+}
+
+.bg-theme {
+    background: #311D40;
+}
+
+.header-main .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.header-main .navbar-dark .navbar-nav .nav-link:hover {
+    color: #CAB26A;
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+/*--- header-secction ------*/

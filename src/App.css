@@ -1,0 +1,51 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+section,
+header,
+.header,
+.section,
+.wd100 {
+    width: 100%;
+    float: left;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+
+
+
+
+li {
+    list-style: none;
+}
+
+a {
+   
+    text-decoration: none;
+}

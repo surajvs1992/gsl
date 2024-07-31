@@ -1,0 +1,242 @@
+
+
+/* ----banner section -----*/
+.banner .carousel-caption h1 {
+    text-transform: uppercase;
+}
+
+.banner {
+    padding-top: 140px;
+}
+
+.banner .carousel-caption {
+    bottom: 10.25rem;
+}
+
+.ban-bt {
+    background: #fff !important;
+    color: #CAB26A;
+    border-radius: 35px;
+    font-size: 15px;
+}
+
+.ban-bt:hover {
+    color: #311D40 !important;
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+
+
+
+/* ----banner section -----*/
+
+/* -----track-section -----------*/
+.track-section {
+    margin: 71px 0 0 0;
+}
+
+.track-section {
+    background-image: url(./images/track-banner.png)  ;
+    height: 526px;
+}
+
+.track-search h1 {
+    color: #fff;
+    padding: 198px 0 0 0;
+}
+
+.track-plugin {
+    border-radius: 10px;
+    padding: 10px;
+    border: 5px solid #E1D184;
+}
+
+.track-now {
+    background: #fff;
+    border-radius: 50px;
+    border: 5px solid #E1D184;
+    margin-left: 35px;
+    color: #000;
+    -webkit-text-stroke-width: 1;
+    -webkit-text-stroke-color: #707070;
+    font-size: 20px;
+}
+
+.track-now:hover {
+    -webkit-box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+
+
+
+
+/* -----track-section -----------*/
+
+
+/*----- about-section------ */
+.about-left img:hover {
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    -webkit-box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+}
+
+.about-section {
+    margin: 80px 0 0 0;
+}
+
+.about-content p {
+    color: #7C7C7C;
+}
+
+.points-main {
+    margin-top: 50px;
+}
+
+.more-bt {
+    background: #5B4D6A;
+    border-radius: 35px;
+    padding: 14px 70px 14px 70px;
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.more-bt:hover {
+    background: #433551;
+    -webkit-box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+.points-main li {
+    background-repeat: no-repeat;
+    float: left;
+    background-image: url(./images/ullist.png);
+    padding: 21px 0 3px 59px;
+}
+
+.points-main li:hover {
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+
+}
+
+.about-left img {
+    height: 100%;
+}
+
+
+.more-main {
+    margin: 105px 0 0 0;
+}
+
+/*----- about-section------ */
+
+.contact-section {
+    margin-top: 140px;
+}
+
+/* ----footersection ------*/
+.footer-main {
+    background: #010101;
+}
+
+.about-foot img {
+    margin-top: 47px;
+    margin-bottom: 47px;
+    width: 100%;
+}
+
+.about-foot h3 {
+    color: #5C5C5C;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.address-foot h3 {
+    color: #5C5C5C;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.about-foot p {
+    color: #3E3E3E;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+.social-footer a img {
+    margin: 0 15px 0 0
+}
+
+.quick-foot {
+    padding-top: 150px;
+}
+
+.address-foot {
+    padding-top: 150px;
+}
+
+.quick-foot ul li {
+    line-height: 40px;
+}
+
+.quick-foot ul li a {
+    color: #3E3E3E;
+}
+
+.quick-foot ul li a:hover {
+    color: #fff;
+    -webkit-box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    box-shadow: 0 4px 8px rgb(2 2 2 / 31%);
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+.quick-foot ul {
+    padding: 0px 0 0 50px;
+}
+
+.quick-foot h3 {
+    padding: 0px 0 0 50px;
+}
+
+.address-foot p {
+    color: #3E3E3E;
+    line-height: 18px;
+}
+
+.address-foot h3 {
+    margin: 0 0 18px 0;
+}
+
+.pay-icon {
+    margin: 20px 0 0 0;
+}
+
+.copy-right {
+    margin-top: 20px;
+    color: #3E3E3E;
+    font-size: 13px;
+}
+
+/* ----footersection ------*/
+
